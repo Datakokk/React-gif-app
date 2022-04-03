@@ -4,7 +4,7 @@ import { GifGrid } from './components/GifGrid';
 
 const ReactGifApp =( () => {
 
-    const [categories, setCategories] = useState(['Fernando Calvo']);    
+    const [categories, setCategories] = useState(['NodeJs']);    
     
     return (
         <div id='app'>
